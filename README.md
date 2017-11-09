@@ -1,17 +1,17 @@
 -----------------------------------------------------------
-                  Myscbot
+# Myscbot
 -----------------------------------------------------------
-A custom Protoss AI for a Real-time strategy game StarCraft: Broodwar using the architecture of UAlbertaBot
+A custom Protoss AI for a Real-time strategy game StarCraft: Broodwar using the architecture of UAlbertaBot.  Myscbot has simple rule-based strategy changing using the information from scouting in the early of the game to identify opponent's rush/non-rush strategy.
 
 
-# Files and Folders
+## Files and Folders
 ---------------------
-/myscbot_aiide2017_submission
-	/Myscbot	        --- Folder containing Myscbot source code
-     	Myscbot.dll		--- Bot DLL file
-	Myscbot_Config.txt	--- Mysbot configuration file
+* /myscbot_aiide2017_submission
+	* /Myscbot	        --- Folder containing Myscbot source code
+     	* Myscbot.dll		--- Bot DLL file
+	* Myscbot_Config.txt	--- Mysbot configuration file
 
 
-# Compilation Instructions
+## Compilation Instructions
 ---------------------------
 This bot uses the UAlbertaBot's installation instructions as follow: https://github.com/davechurchill/ualbertabot/wiki/Installation-Instructions
