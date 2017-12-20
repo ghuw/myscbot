@@ -23,7 +23,7 @@ This bot uses the UAlbertaBot's installation instructions as follow: https://git
 
 ## License
 ---------------------------
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/ghuw/neural-net/blob/master/LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/ghuw/myscbot/blob/master/LICENSE.md) file for details
 
 ## Acknowledgments
 ---------------------------
