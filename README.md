@@ -15,3 +15,16 @@ A custom Protoss AI for a Real-time strategy game StarCraft: Broodwar using the 
 ## Compilation Instructions
 ---------------------------
 This bot uses the UAlbertaBot's installation instructions as follow: https://github.com/davechurchill/ualbertabot/wiki/Installation-Instructions
+
+
+## Author
+---------------------------
+* **Teguh Budianto** - [ghuw](https://github.com/ghuw)
+
+## License
+---------------------------
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/ghuw/neural-net/blob/master/LICENSE.md) file for details
+
+## Acknowledgments
+---------------------------
+* This project is inspired from [davechurchill](https://github.com/davechurchill/ualbertabot) work.
