@@ -28,3 +28,21 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 ## Acknowledgments
 ---------------------------
 * This project is inspired from [davechurchill](https://github.com/davechurchill/ualbertabot) work.
+
+## Our paper on real-time strategy game
+### [Learning to Identify Rush Strategies in StarCraft](https://link.springer.com/chapter/10.1007/978-3-319-99426-0_8)
+
+
+## Citations
+If you find this work useful, please consider citing it.
+
+```
+@inproceedings{budianto2018learning,
+  title={Learning to Identify Rush Strategies in StarCraft},
+  author={Budianto, Teguh and Oh, Hyunwoo and Utsuro, Takehito},
+  booktitle={International Conference on Entertainment Computing},
+  pages={90--102},
+  year={2018},
+  organization={Springer}
+}
+```
