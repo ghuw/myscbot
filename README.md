@@ -14,7 +14,7 @@ A custom Protoss AI for a Real-time strategy game StarCraft: Broodwar using the 
 
 ## Compilation Instructions
 ---------------------------
-This bot uses the UAlbertaBot's installation instructions as follow: https://github.com/davechurchill/ualbertabot/wiki/Installation-Instructions
+This bot uses the UAlbertaBot's installation instructions as follow: [installation guide](https://github.com/davechurchill/ualbertabot/wiki/Installation-Instructions)
 
 
 ## Author
@@ -29,9 +29,12 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 ---------------------------
 * This project is inspired from [davechurchill](https://github.com/davechurchill/ualbertabot) work.
 
+## Tournaments & competitions
+
+#### [Participating the AIIDE 2017 Starcraft AI Competition](https://www.cs.mun.ca/~dchurchill/starcraftaicomp/2017/AIIDE2017_StarcraftAICompetition.pdf)
+
 ## Our paper on real-time strategy game
 ### [Learning to Identify Rush Strategies in StarCraft](https://link.springer.com/chapter/10.1007/978-3-319-99426-0_8)
-
 
 ## Citations
 If you find this work useful, please consider citing it.
